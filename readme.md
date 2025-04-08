@@ -1,3 +1,5 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
 Indicators of Heart Disease
 
 A machine learning project that predicts the likelihood of heart disease based on various health indicators using classification algorithms. This notebook includes EDA, feature selection, model training, and evaluation.
